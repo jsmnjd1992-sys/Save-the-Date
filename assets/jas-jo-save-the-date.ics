@@ -5,8 +5,8 @@ BEGIN:VEVENT
 UID:01e969a8-94c2-4353-9c94-97600064f00e@save-the-date
 DTSTAMP:20250903T135150Z
 SUMMARY:Jas & Jo — Wedding
-DESCRIPTION:Dress code: Semi Formal\nLocation: Lipa City, Batangas
-LOCATION:Lipa City, Batangas
+DESCRIPTION:Dress code: Semi Formal\nLocation: Batangas City, Batangas
+LOCATION:Batangas City, Batangas
 DTSTART;TZID=Asia/Manila:20250930T170000
 END:VEVENT
 END:VCALENDAR
